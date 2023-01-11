@@ -3,7 +3,7 @@ import os
 # get root folder
 
 given = input("Provide directory to search: ")
-save = input("Where to save the empty folder: ")
+save = input("Provide directory to save empty.txt: ")
 
 # storing empty directories
 empty = []
